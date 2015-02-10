@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Topic3-Test</string>
+    <string name="promt_text">type here</string>
+    <string name="cancelbuttonText">Cancel</string>
+    <string name="okbuttonText">OK</string>
+    <string name="help_label">What you typed will be echoed here</string>
+
+</resources>
